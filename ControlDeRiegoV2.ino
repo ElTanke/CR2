@@ -11,7 +11,7 @@ float Q=0.05;
 #define L_WHITE 3
 #define L_GREEN 4
 
-//Botones
+//gwensadfbdsvhbdscsnnsd
 
 #define BTN_RED 5
 #define BTN_BLUE 6
